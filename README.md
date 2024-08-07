@@ -22,7 +22,7 @@ In response to this challenge, AtliQ's senior executives decided to initiate a d
 ## Data Preparation and Modeling
 - **Data Sourcing**: Data sourced from multiple systems and transformed for Power BI.
 - **Data Modeling**:
-  - Created a star schema to ensure efficient and accurate analytics.
+  - Created a star schema with some snowflake elements for flexibility.
   - Fact tables: Sales, Marketing, Inventory, Financials.
   - Dimension tables: Products, Customers, Time, Regions.
 - **Calculated Columns and Measures**: Developed to provide key insights and support data-driven decisions.
