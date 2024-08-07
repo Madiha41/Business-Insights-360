@@ -62,7 +62,7 @@ In response to this challenge, AtliQ's senior executives decided to initiate a d
 ## Presentation Links
 - **LinkedIn Presentation:** [Insert LinkedIn Presentation Link Here]
 - **Live Dashboard:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRhMDNiNGQtNmUyMS00YjEyLTg4NWEtYzg5OGZmZTJhMGNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
-- **Portfolio:** [Insert Portfolio Link Here]
+- **Portfolio:** [Portfolio](https://codebasics.io/portfolio/Madiha-Shaik)
 
 ## Screenshots
 ### Home Page
@@ -81,7 +81,7 @@ In response to this challenge, AtliQ's senior executives decided to initiate a d
 [Data model](https://github.com/Madiha41/Business-Insights-360/blob/main/Data%20model.jpg)
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Madiha-Shaik)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-shaik-24871a204)
 
 ## License
