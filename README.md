@@ -61,22 +61,24 @@ In response to this challenge, AtliQ's senior executives decided to initiate a d
 
 ## Presentation Links
 - **LinkedIn Presentation:** [Insert LinkedIn Presentation Link Here]
-- **Live Dashboard:** [Insert Live Dashboard Link Here]
+- **Live Dashboard:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRhMDNiNGQtNmUyMS00YjEyLTg4NWEtYzg5OGZmZTJhMGNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 - **Portfolio:** [Insert Portfolio Link Here]
 
 ## Screenshots
 ### Home Page
-![Home Page](images/homepage-screenshot.png)
+[Home page](https://github.com/Madiha41/Business-Insights-360/blob/main/Homepage.jpg)
 ### Finance View
-![Finance View](images/finance-view-screenshot.png)
+[Finance view](https://github.com/Madiha41/Business-Insights-360/blob/main/Finance_view.jpg)
 ### Sales View
-![Sales View](images/sales-view-screenshot.png)
+[Sale view](https://github.com/Madiha41/Business-Insights-360/blob/main/Sales_view.jpg)
 ### Marketing View
-![Marketing View](images/marketing-view-screenshot.png)
+[Marketing view](https://github.com/Madiha41/Business-Insights-360/blob/main/Marketing_view.jpg)
 ### Supply Chain View
-![Supply Chain View](images/supply-chain-view-screenshot.png)
+[Supply chain view](https://github.com/Madiha41/Business-Insights-360/blob/main/Supply_chain_view.jpg)
 ### Executive View
-![Executive View](images/executive-view-screenshot.png)
+[Executive view](https://github.com/Madiha41/Business-Insights-360/blob/main/Executive_view.jpg)
+### Data Model
+[Data model](https://github.com/Madiha41/Business-Insights-360/blob/main/Data%20model.jpg)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
